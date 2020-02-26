@@ -1,0 +1,2 @@
+# Co-Extraction-of-Opinion-Targets-and-Opinion-Words-from-Online-Reviews
+This project is a web application which simulates an online shopping website. The main aim of this project isto retrieve user reviewsfor a product and identify the comment as positive or negative based on the overallscore of the opinion words and accordingly calculate the overall rating of the product. Technologies used:Java,JSP, Servlet, SentiWordNet, MySQL.
